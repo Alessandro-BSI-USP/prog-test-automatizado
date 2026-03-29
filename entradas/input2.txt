@@ -1,0 +1,5 @@
+4
+arthur 7 7 7
+beatriz 5 5 6
+caio 0 0 0
+denise 10 10 10

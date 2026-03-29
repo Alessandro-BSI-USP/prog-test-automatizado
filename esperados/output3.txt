@@ -1,0 +1,10 @@
+ana - Media: 5.00 - APROVADO
+beto - Media: 4.33 - RECUPERACAO
+caio - Media: 7.00 - APROVADO
+duda - Media: 2.00 - REPROVADO
+enzo - Media: 5.00 - APROVADO
+fabio - Media: 9.00 - APROVADO
+gabi - Media: 3.33 - RECUPERACAO
+hugo - Media: 5.33 - APROVADO
+isabela - Media: 10.00 - APROVADO
+joao - Media: 1.00 - REPROVADO

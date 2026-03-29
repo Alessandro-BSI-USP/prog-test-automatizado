@@ -1,0 +1,11 @@
+10
+ana 5 5 5
+beto 4 5 4
+caio 6 7 8
+duda 2 3 1
+enzo 5 4 6
+fabio 9 10 8
+gabi 3 3 4
+hugo 5 5 6
+isabela 10 10 10
+joao 0 2 1
