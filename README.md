@@ -50,10 +50,8 @@ gcc sistema_notas.c -o programa
 
 Depois rodar o script:
 ```
-python prog_test_automa.py
+python prog_test_automa.py programa.exe
 ```
-
-Informar para testar: programa.exe  
 
 E o teste será aplicado para o programa compilado, retornando uma saida como:
 
