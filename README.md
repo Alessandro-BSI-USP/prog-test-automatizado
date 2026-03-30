@@ -45,7 +45,7 @@ prog-test-automatizado
 Primeiro compilar o programa que quer fazer os testes.
 Exemplo:
 ```
-gcc sistema_notas.c -o programa
+gcc mediaAlunos.c -o programa
 ```
 
 Depois rodar o script:
